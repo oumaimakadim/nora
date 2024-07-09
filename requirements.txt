@@ -1,0 +1,7 @@
+streamlit
+sqlite3
+pandas
+plotly
+passlib
+scikit-learn  # sklearn est souvent installé sous ce nom
+google-generative-ai  # Assurez-vous de vérifier le nom exact de cette bibliothèque
